@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Birthday invitation card</title>
+  </head>
+  <body>
+    <h1>It's My Birthday!</h1>
+    <h2> On the 15th October</h2>
+    <img src="https://i.pinimg.com/originals/cd/8b/2a/cd8b2aafa62a06f0e605da9c9cdcd0f0.jpg" alt="violet bday cake" width="200px" height="200px"/>
+    <h3>What to bring:</h3>
+    <ul>
+        <li>Balloons(I love balloons)</li>
+        <li>Cake(I am really good at eating)</li>
+        <li>An appetite(There will be lots of fun)</li>
+    </ul>
+    <h3>This is where you have to come:</h3>
+    <a href="https://www.squareyards.com/tavarekere-in-bangalore-overview-10386">Google Map link</a>
+  </body>
+</html>

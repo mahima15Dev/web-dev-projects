@@ -1,0 +1,23 @@
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h1>My Website!<h1>
+    <img src="./image/bike.jpg" alt="hesan's pic" width="300px" height="400px"/>
+<p> With my ZX10r</p>
+<img src="./image/Hesan.jpg" alt="with bike" width="300px" height="400px"/>
+    <ul>
+      <li><a href="./about me">About Me</a></li>
+      <li><a href="./contact me">Contact Me</a></li>
+    </ul>
+    
+    
+
+    
+    
+    
+   
+  </body>
+</html>

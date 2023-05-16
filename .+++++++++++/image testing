@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>dog gif</title>
+  </head>
+  <body>
+    <h1>I am a Dog person!</h1>
+    <img src="https://media1.giphy.com/media/URoLoCo1s9jm8/giphy.gif" alt="Dog digging through sand" width="500px" height="500px" />
+  </body>
+</html>

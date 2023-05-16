@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Best Movies</title>
+
+    
+  </head>
+  <body>
+    <h1>The Best Movies According to Mahima</h1>
+    <h2> My top 3 movies of all-time</h2>
+    <hr>
+    <h3>Kabhi Khushi Kabhi Gham</h3>
+    <p>Family oriented movie</p>
+    <h3>Shershah</h3>
+    <p>Based on true story of a warrior of Vikram Bhatra</p>
+    <h3>Hum Saath Saath Hain</h3>
+    <p>Family,Love,Romantic </p>
+    
+  </body>
+</html>

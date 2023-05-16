@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h1>All the Animals</h1>
+    <h2>Rabbit</h2>
+    <img src="./rabbit.jpeg" alt="rabbit during sunrise" width="500px" height="500px"/>   
+    <h2>cat</h2>
+    <img src="./cat.jpeg" alt="cat pic" width="500px" height="500px"/>
+    <h2>Dog</h2>
+    <img src="./dog.jpeg" alt="dog with goggels" width="500px" height="500px"/>
+    <h2>Fish</h2>
+    <img src="./fish.jpeg" alt="fish pic" width="500px" height="500px"/>
+    <h2>Bird</h2>
+    <img src="./bird.jpeg" alt="Two birds sitting on a branch" width="500px" height="500px"/>
+  </body>
+</html>
